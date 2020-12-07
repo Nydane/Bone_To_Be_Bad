@@ -1,0 +1,1068 @@
+﻿Log file open, 12/07/20 19:23:24
+LogInit: Display: Running engine for game: BBTB
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 7.298758
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Fortnite/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.07-18.23.28:563][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.07-18.23.28:563][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.07-18.23.28:563][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Engine.ini]
+[2020.12.07-18.23.28:563][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.07-18.23.28:563][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Engine.ini]
+[2020.12.07-18.23.28:563][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Engine.ini]
+[2020.12.07-18.23.28:563][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.07-18.23.28:563][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.07-18.23.28:563][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.07-18.23.28:563][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.07-18.23.28:563][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.07-18.23.28:563][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.07-18.23.28:563][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.07-18.23.28:563][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.07-18.23.28:564][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.07-18.23.28:564][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.07-18.23.28:564][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.07-18.23.28:564][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.07-18.23.28:564][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.07-18.23.28:564][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.07-18.23.28:564][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Engine.ini]
+[2020.12.07-18.23.28:564][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.07-18.23.28:564][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.07-18.23.28:564][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.07-18.23.28:564][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.07-18.23.28:564][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.07-18.23.28:564][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.07-18.23.28:564][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.07-18.23.28:564][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.07-18.23.28:564][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.07-18.23.28:564][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.07-18.23.28:564][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.07-18.23.28:564][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.07-18.23.28:564][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.07-18.23.28:564][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Engine.ini]
+[2020.12.07-18.23.28:564][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Engine.ini]
+[2020.12.07-18.23.28:637][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.07-18.23.28:637][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.07-18.23.28:637][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.07-18.23.28:637][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-18.23.28:637][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.07-18.23.28:638][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.07-18.23.28:647][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.07-18.23.28:647][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.07-18.23.28:665][  0]LogHAL: Display: Platform has ~ 16 GB [17137610752 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.07-18.23.28:666][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.07-18.23.28:667][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-18.23.28:667][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.07-18.23.28:667][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.07-18.23.28:667][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-18.23.28:667][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.07-18.23.28:667][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-18.23.28:667][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.07-18.23.28:667][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.07-18.23.28:667][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.07-18.23.28:668][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-18.23.28:668][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.07-18.23.28:669][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.07-18.23.28:687][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.07-18.23.28:687][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.07-18.23.28:687][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.07-18.23.28:687][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Fork/Bone_To_Be_Bad/Saved/Config/Windows/Engine.ini]
+[2020.12.07-18.23.28:687][  0]LogInit: Computer: DESKTOP-K5HTRQ0
+[2020.12.07-18.23.28:687][  0]LogInit: User: Max
+[2020.12.07-18.23.28:694][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.12.07-18.23.28:694][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.07-18.23.28:694][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.12.07-18.23.28:694][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.07-18.23.28:694][  0]LogMemory: Process Physical Memory: 117.06 MB used, 117.06 MB peak
+[2020.12.07-18.23.28:694][  0]LogMemory: Process Virtual Memory: 96.14 MB used, 96.14 MB peak
+[2020.12.07-18.23.28:694][  0]LogMemory: Physical Memory: 12883.46 MB used,  3460.24 MB free, 16343.70 MB total
+[2020.12.07-18.23.28:694][  0]LogMemory: Virtual Memory: 5143.68 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.12.07-18.23.28:713][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.07-18.23.29:773][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.07-18.23.29:892][  0]LogInit: Using OS detected language (fr-FR).
+[2020.12.07-18.23.29:892][  0]LogInit: Using OS detected locale (fr-FR).
+[2020.12.07-18.23.30:031][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2020.12.07-18.23.30:040][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2020.12.07-18.23.30:040][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2020.12.07-18.23.30:040][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2020.12.07-18.23.30:041][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2020.12.07-18.23.30:046][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2020.12.07-18.23.30:046][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2020.12.07-18.23.30:047][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2020.12.07-18.23.30:158][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.07-18.23.31:196][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.07-18.23.31:196][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.07-18.23.35:497][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2020.12.07-18.23.35:497][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.07-18.23.35:497][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.07-18.23.35:497][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.07-18.23.35:579][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.12.07-18.23.35:579][  0]LogD3D11RHI:       8088/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2020.12.07-18.23.35:586][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.07-18.23.35:586][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.07-18.23.35:589][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.07-18.23.35:589][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.07-18.23.35:589][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.07-18.23.35:604][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.07-18.23.35:604][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.07-18.23.35:605][  0]LogWindows: EnumDisplayDevices:
+[2020.12.07-18.23.35:605][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.12.07-18.23.35:605][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.12.07-18.23.35:605][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.12.07-18.23.35:606][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.12.07-18.23.35:606][  0]LogWindows:    4. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.12.07-18.23.35:606][  0]LogWindows:    5. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.12.07-18.23.35:606][  0]LogWindows:    6. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.12.07-18.23.35:607][  0]LogWindows:    7. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.12.07-18.23.35:607][  0]LogWindows:    8. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.12.07-18.23.35:607][  0]LogWindows:    9. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.12.07-18.23.35:607][  0]LogWindows:    10. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.12.07-18.23.35:608][  0]LogWindows:    11. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2020.12.07-18.23.35:608][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.12.07-18.23.35:608][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.12.07-18.23.35:608][  0]LogD3D11RHI:   Driver Version: 457.30 (internal:27.21.14.5730, unified:457.30)
+[2020.12.07-18.23.35:608][  0]LogD3D11RHI:      Driver Date: 11-6-2020
+[2020.12.07-18.23.35:608][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.12.07-18.23.35:668][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.07-18.23.35:670][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.07-18.23.35:670][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.12.07-18.23.36:040][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.07-18.23.37:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.07-18.23.37:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.07-18.23.37:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.07-18.23.37:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.07-18.23.37:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.07-18.23.37:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.07-18.23.37:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.07-18.23.37:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.07-18.23.37:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.07-18.23.37:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.07-18.23.37:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.07-18.23.37:555][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.07-18.23.37:555][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.07-18.23.37:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.07-18.23.37:640][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.07-18.23.37:700][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.07-18.23.37:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.07-18.23.37:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.07-18.23.37:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.07-18.23.37:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.07-18.23.37:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.07-18.23.37:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.07-18.23.37:931][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.07-18.23.37:931][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.07-18.23.37:978][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.07-18.23.38:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.07-18.23.38:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.07-18.23.38:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.07-18.23.38:090][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.07-18.23.38:303][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.07-18.23.39:171][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../../Fork/Bone_To_Be_Bad/Intermediate/Shaders/WorkingDirectory/28220/).
+[2020.12.07-18.23.39:171][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Max/AppData/Local/Temp/UnrealShaderWorkingDir/0AA8E5B84451730B380055920009F2F8/'.
+[2020.12.07-18.23.39:269][  0]LogXGEController: Cleaning working directory: C:/Users/Max/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.07-18.23.39:269][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.07-18.23.39:269][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.07-18.23.39:269][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.07-18.23.44:703][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.07-18.23.44:919][  0]LogDerivedDataCache: Loaded boot cache 0.22s 77MB C:/Users/Max/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.07-18.23.44:919][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Max/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.12.07-18.23.44:919][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Fork/Bone_To_Be_Bad/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.07-18.23.44:919][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.07-18.23.44:919][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Fork/Bone_To_Be_Bad/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.07-18.23.44:919][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.07-18.23.45:037][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.07-18.23.45:037][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.07-18.23.45:037][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.07-18.23.45:039][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Max/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.07-18.23.45:039][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.07-18.23.45:039][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.07-18.23.45:294][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.07-18.23.45:500][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.07-18.23.46:592][  0]LogAssetRegistry: FAssetRegistry took 0.0376 seconds to start up
+[2020.12.07-18.23.58:460][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.07-18.24.02:311][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.07-18.24.02:311][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.07-18.24.02:311][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.07-18.24.02:311][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.07-18.24.02:329][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.07-18.24.03:979][  0]LogNetVersion: BBTB 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3023391371)
+[2020.12.07-18.24.17:413][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000017D07D6D540), frame # 0
+[2020.12.07-18.24.17:413][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017D07C10180), frame # 0
+[2020.12.07-18.24.17:417][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017D07C39E00), frame # 0
+[2020.12.07-18.24.18:513][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.213738 seconds
+[2020.12.07-18.24.18:565][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.12.07-18.24.18:581][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.12.07-18.24.18:582][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.07-18.24.27:853][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.07-18.24.28:044][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.07-18.24.33:276][  0]SourceControl: Source control is disabled
+[2020.12.07-18.24.33:277][  0]SourceControl: Source control is disabled
+[2020.12.07-18.24.34:042][  0]SourceControl: Source control is disabled
+[2020.12.07-18.24.34:085][  0]SourceControl: Source control is disabled
+[2020.12.07-18.24.34:161][  0]SourceControl: Source control is disabled
+[2020.12.07-18.24.38:036][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.07-18.24.38:231][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.07-18.24.38:231][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.07-18.24.38:608][  0]LogOcInput: OculusInput pre-init called
+[2020.12.07-18.24.38:740][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.07-18.24.38:740][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.07-18.24.40:790][  0]LogEngine: Initializing Engine...
+[2020.12.07-18.24.40:848][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2020.12.07-18.24.40:854][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.07-18.24.40:911][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.021 s
+[2020.12.07-18.24.41:313][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.07-18.24.42:169][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.07-18.24.42:169][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017D0D8C7C00), frame # 0
+[2020.12.07-18.24.42:175][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017D0D877B00), frame # 0
+[2020.12.07-18.24.42:430][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.07-18.24.42:430][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.07-18.24.42:430][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.07-18.24.42:430][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.07-18.24.42:430][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.07-18.24.42:430][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.07-18.24.42:430][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.07-18.24.42:430][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.07-18.24.42:442][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.07-18.24.42:442][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.07-18.24.42:530][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.07-18.24.42:530][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.07-18.24.42:574][  0]LogAudioMixer: Display: Using Audio Device CABLE Input (VB-Audio Virtual Cable)
+[2020.12.07-18.24.42:592][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.07-18.24.42:593][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.07-18.24.42:606][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.07-18.24.42:623][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.07-18.24.42:624][  0]LogInit: FAudioDevice initialized.
+[2020.12.07-18.24.42:653][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.07-18.24.42:717][  0]LogDerivedDataCache: Saved boot cache 0.06s 76MB C:/Users/Max/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.07-18.24.42:721][  0]LogInit: Texture streaming: Enabled
+[2020.12.07-18.24.42:973][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.07-18.24.42:973][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.07-18.24.43:059][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.07-18.24.43:365][  0]LogInit: Transaction tracking system initialized
+[2020.12.07-18.24.43:759][  0]BlueprintLog: New page: Editor Load
+[2020.12.07-18.24.45:253][  0]LocalizationService: Localization service is disabled
+[2020.12.07-18.24.48:155][  0]LogFileCache: Scanning file cache for directory 'D:/Fork/Bone_To_Be_Bad/Content/' took 0.02s
+[2020.12.07-18.24.48:155][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.07-18.24.48:155][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.07-18.24.51:598][  0]SourceControl: Source control is disabled
+[2020.12.07-18.24.51:611][  0]LogUnrealEdMisc: Loading editor; pre map load, took 102.954
+[2020.12.07-18.24.51:827][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Fortnite/UE_4.25/FeaturePacks/StarterContent.upack)
+[2020.12.07-18.24.51:934][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.12.07-18.24.51:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.12.07-18.24.51:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.12.07-18.24.51:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.12.07-18.24.52:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.12.07-18.24.52:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.12.07-18.24.52:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.12.07-18.24.52:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.12.07-18.24.52:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.12.07-18.24.52:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.12.07-18.24.52:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.12.07-18.24.52:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.12.07-18.24.52:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.12.07-18.24.52:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.12.07-18.24.52:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.12.07-18.24.52:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.12.07-18.24.52:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.12.07-18.24.52:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.12.07-18.24.52:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Fire01.uasset"
+[2020.12.07-18.24.52:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.12.07-18.24.52:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.12.07-18.24.52:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.12.07-18.24.52:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Light01.uasset"
+[2020.12.07-18.24.52:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.12.07-18.24.52:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Light02.uasset"
+[2020.12.07-18.24.52:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.12.07-18.24.52:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.12.07-18.24.52:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.12.07-18.24.52:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.12.07-18.24.52:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.12.07-18.24.52:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.12.07-18.24.52:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.12.07-18.24.52:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.12.07-18.24.52:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.12.07-18.24.52:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Steam01.uasset"
+[2020.12.07-18.24.52:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.12.07-18.24.52:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.12.07-18.24.52:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.12.07-18.24.52:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.12.07-18.24.52:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.12.07-18.24.52:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.12.07-18.24.52:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.12.07-18.24.52:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.12.07-18.24.52:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.12.07-18.24.52:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.12.07-18.24.52:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.12.07-18.24.52:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.12.07-18.24.52:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.12.07-18.24.52:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.12.07-18.24.52:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.12.07-18.24.52:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.12.07-18.24.52:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.12.07-18.24.53:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.12.07-18.24.53:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.12.07-18.24.53:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.12.07-18.24.53:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.12.07-18.24.53:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.12.07-18.24.53:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Maps/StarterMap.umap"
+[2020.12.07-18.24.53:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.12.07-18.24.53:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.12.07-18.24.53:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.12.07-18.24.54:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.12.07-18.24.54:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.12.07-18.24.54:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.12.07-18.24.54:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.12.07-18.24.54:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.12.07-18.24.54:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.12.07-18.24.54:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.12.07-18.24.54:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.12.07-18.24.54:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.12.07-18.24.54:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.12.07-18.24.54:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.12.07-18.24.54:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.12.07-18.24.54:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.12.07-18.24.54:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.12.07-18.24.54:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.12.07-18.24.54:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.12.07-18.24.54:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.12.07-18.24.54:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.12.07-18.24.54:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.12.07-18.24.54:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.12.07-18.24.54:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.12.07-18.24.54:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.12.07-18.24.54:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.12.07-18.24.54:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.12.07-18.24.54:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.12.07-18.24.54:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.12.07-18.24.54:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.12.07-18.24.54:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.12.07-18.24.54:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.12.07-18.24.54:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.12.07-18.24.54:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.12.07-18.24.54:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.12.07-18.24.54:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.12.07-18.24.54:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.12.07-18.24.54:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.12.07-18.24.54:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.12.07-18.24.54:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.12.07-18.24.54:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.12.07-18.24.54:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.12.07-18.24.54:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.12.07-18.24.54:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.12.07-18.24.54:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.12.07-18.24.55:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.12.07-18.24.55:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.12.07-18.24.55:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.12.07-18.24.55:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.12.07-18.24.55:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.12.07-18.24.55:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.12.07-18.24.55:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.12.07-18.24.55:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.12.07-18.24.55:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.12.07-18.24.55:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.12.07-18.24.55:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.12.07-18.24.55:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.12.07-18.24.55:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.12.07-18.24.55:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.12.07-18.24.55:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.12.07-18.24.55:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.12.07-18.24.55:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.12.07-18.24.55:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.12.07-18.24.55:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.12.07-18.24.55:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.12.07-18.24.55:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/SM_Door.uasset"
+[2020.12.07-18.24.55:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.12.07-18.24.55:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.12.07-18.24.55:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.12.07-18.24.55:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.12.07-18.24.55:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.12.07-18.24.55:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.12.07-18.24.55:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.12.07-18.24.55:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.12.07-18.24.55:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.12.07-18.24.55:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.12.07-18.24.55:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.12.07-18.24.55:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.12.07-18.24.55:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.12.07-18.24.55:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.12.07-18.24.55:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.12.07-18.24.55:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.12.07-18.24.55:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.12.07-18.24.55:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.12.07-18.24.55:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.12.07-18.24.55:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.12.07-18.24.55:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.12.07-18.24.55:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.12.07-18.24.55:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.12.07-18.24.55:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.12.07-18.24.55:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.12.07-18.24.55:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.12.07-18.24.55:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.12.07-18.24.55:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.12.07-18.24.56:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.12.07-18.24.56:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.12.07-18.24.56:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.12.07-18.24.56:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.12.07-18.24.56:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.12.07-18.24.56:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.12.07-18.24.56:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.12.07-18.24.56:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.12.07-18.24.56:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.12.07-18.24.56:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.12.07-18.24.56:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.12.07-18.24.56:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.12.07-18.24.56:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.12.07-18.24.56:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.12.07-18.24.56:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.12.07-18.24.56:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.12.07-18.24.56:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.12.07-18.24.56:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.12.07-18.24.56:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.12.07-18.24.56:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.12.07-18.24.56:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.12.07-18.24.56:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.12.07-18.24.57:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.12.07-18.24.57:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.12.07-18.24.57:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.12.07-18.24.57:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.12.07-18.24.57:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.12.07-18.24.57:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.12.07-18.24.57:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.12.07-18.24.57:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.12.07-18.24.57:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.12.07-18.24.57:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.12.07-18.24.57:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.12.07-18.24.58:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.12.07-18.24.58:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.12.07-18.24.58:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.12.07-18.24.58:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.12.07-18.24.58:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.12.07-18.24.58:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.12.07-18.24.58:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.12.07-18.24.58:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.12.07-18.24.58:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.12.07-18.24.58:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.12.07-18.24.58:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.12.07-18.24.58:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.12.07-18.24.58:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.12.07-18.24.58:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.12.07-18.24.59:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.12.07-18.24.59:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.12.07-18.24.59:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.12.07-18.24.59:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.12.07-18.24.59:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.12.07-18.24.59:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.12.07-18.24.59:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.12.07-18.24.59:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.12.07-18.25.00:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.12.07-18.25.00:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.12.07-18.25.00:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.12.07-18.25.00:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.12.07-18.25.00:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.12.07-18.25.00:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.12.07-18.25.00:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.12.07-18.25.00:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.12.07-18.25.00:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.12.07-18.25.00:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.12.07-18.25.00:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.12.07-18.25.00:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.12.07-18.25.01:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.12.07-18.25.01:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.12.07-18.25.01:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.12.07-18.25.01:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.12.07-18.25.01:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.12.07-18.25.01:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.12.07-18.25.01:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.12.07-18.25.01:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.12.07-18.25.01:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.12.07-18.25.02:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.12.07-18.25.02:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.12.07-18.25.02:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.12.07-18.25.02:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.12.07-18.25.02:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.12.07-18.25.02:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.12.07-18.25.02:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.12.07-18.25.02:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.12.07-18.25.02:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.12.07-18.25.03:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.12.07-18.25.03:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.12.07-18.25.03:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.12.07-18.25.03:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.12.07-18.25.03:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.12.07-18.25.03:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.12.07-18.25.04:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.12.07-18.25.04:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.12.07-18.25.04:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.12.07-18.25.04:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.12.07-18.25.04:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.12.07-18.25.04:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.12.07-18.25.04:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.12.07-18.25.04:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.12.07-18.25.04:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.12.07-18.25.04:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.12.07-18.25.04:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.12.07-18.25.04:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.12.07-18.25.04:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.12.07-18.25.04:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.12.07-18.25.04:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.12.07-18.25.04:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.12.07-18.25.04:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.12.07-18.25.05:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.12.07-18.25.05:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.12.07-18.25.05:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.12.07-18.25.05:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.12.07-18.25.05:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.12.07-18.25.05:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.12.07-18.25.05:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.12.07-18.25.05:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.12.07-18.25.05:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.12.07-18.25.05:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.12.07-18.25.05:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.12.07-18.25.06:404][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2020.12.07-18.25.06:460][  0]LogStaticMesh: Built static mesh [0.06s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.12.07-18.25.07:839][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.12.07-18.25.09:000][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2020.12.07-18.25.09:305][  0]LogSavePackage: Moving '../../../../../Fork/Bone_To_Be_Bad/Saved/Floor_400x40072102BD343B2AAC3F452E8A2B910A961.tmp' to '../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.12.07-18.25.09:343][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2020.12.07-18.25.09:359][  0]Cmd: MAP LOAD FILE="../../../../../Fork/Bone_To_Be_Bad/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.07-18.25.09:359][  0]LightingResults: New page: Lighting Build
+[2020.12.07-18.25.09:438][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.07-18.25.09:458][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.07-18.25.09:476][  0]MapCheck: New page: Map Check
+[2020.12.07-18.25.09:476][  0]LightingResults: New page: Lighting Build
+[2020.12.07-18.25.09:939][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017D0D8C7C00), frame # 0
+[2020.12.07-18.25.09:939][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017D0D877B00), frame # 0
+[2020.12.07-18.25.09:947][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.12.07-18.25.11:601][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2020.12.07-18.25.11:601][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.12.07-18.25.11:601][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.12.07-18.25.11:601][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.12.07-18.25.11:601][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.12.07-18.25.11:601][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.12.07-18.25.12:025][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2020.12.07-18.25.12:025][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X512)
+[2020.12.07-18.25.12:025][  0]LogMaterial: Display: Missing cached shader map for material Yellow, compiling. 
+[2020.12.07-18.25.12:284][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.12.07-18.25.12:285][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.12.07-18.25.12:285][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.12.07-18.25.12:285][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.12.07-18.25.12:285][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Dungeon_Skeleton_01...
+[2020.12.07-18.25.12:327][  0]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/PolygonFanMiniChr/Models/Characters/SK_Dungeon_Skeleton_01.SK_Dungeon_Skeleton_01
+[2020.12.07-18.25.12:511][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.12.07-18.25.12:511][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017D27484E00), frame # 0
+[2020.12.07-18.25.12:511][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017D0E3834C0), frame # 0
+[2020.12.07-18.25.13:526][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.07-18.25.13:759][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.12.07-18.25.13:763][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.07-18.25.13:763][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,091ms to complete.
+[2020.12.07-18.25.13:764][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.412
+[2020.12.07-18.25.15:686][  0]LogUnrealEdMisc: Total Editor Startup Time, took 127.029
+[2020.12.07-18.25.16:545][  0]LogCollectionManager: Loaded 0 collections in 0.001176 seconds
+[2020.12.07-18.25.17:004][  0]LogFileCache: Scanning file cache for directory 'D:/Fork/Bone_To_Be_Bad/Saved/Collections/' took 0.00s
+[2020.12.07-18.25.17:004][  0]LogFileCache: Scanning file cache for directory 'D:/Fork/Bone_To_Be_Bad/Content/Developers/Max/Collections/' took 0.00s
+[2020.12.07-18.25.17:004][  0]LogFileCache: Scanning file cache for directory 'D:/Fork/Bone_To_Be_Bad/Content/Collections/' took 0.00s
+[2020.12.07-18.25.17:004][  0]LogContentBrowser: Native class hierarchy populated in 0.0150 seconds. Added 3427 classes and 821 folders.
+[2020.12.07-18.25.17:210][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.12.07-18.25.18:760][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.12.07-18.25.19:231][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.07-18.25.19:238][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.07-18.25.19:246][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.07-18.25.19:254][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.07-18.25.19:375][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2020.12.07-18.25.20:086][  0]LogSlate: Took 0.020740 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.07-18.25.20:101][  0]LogSlate: Took 0.013240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.07-18.25.20:138][  0]LogSlate: Took 0.022787 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.07-18.25.20:237][  0]LogSlate: Took 0.006676 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.07-18.25.20:536][  0]LogRenderer: Reallocating scene render targets to support 1180x924 Format 10 NumSamples 1 (Frame:1).
+[2020.12.07-18.25.21:358][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.07-18.25.21:358][  0]LogLoad: (Engine Initialization) Total time: 132.70 seconds
+[2020.12.07-18.25.21:358][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.07-18.25.21:569][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2020.12.07-18.25.21:569][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.12.07-18.25.22:051][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.07-18.25.22:388][  0]LogSlate: Took 0.059222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.12.07-18.25.22:615][  1]LogAssetRegistry: Asset discovery search completed in 96.0244 seconds
+[2020.12.07-18.25.22:628][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.008423 seconds (updated 0 objects)
+[2020.12.07-18.25.35:290][292]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.07-18.25.35:362][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.07-18.25.35:421][292]PIE: New page: PIE session: ThirdPersonExampleMap (7 déc. 2020 à 20:25:35)
+[2020.12.07-18.25.35:549][292]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.12.07-18.25.35:557][292]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.12.07-18.25.35:575][292]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.12.07-18.25.35:615][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035903s)
+[2020.12.07-18.25.35:623][292]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.12.07-18.25.35:623][292]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017D47B9DC00), frame # 292
+[2020.12.07-18.25.35:623][292]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017D0DABCA40), frame # 292
+[2020.12.07-18.25.35:623][292]LogPlayLevel: PIE: World Init took: (0.007634s)
+[2020.12.07-18.25.35:623][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.048200s)
+[2020.12.07-18.25.35:649][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.12.07-18.25.35:654][292]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.07-18.25.35:654][292]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.07-18.25.35:654][292]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.07-18.25.35:654][292]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.07-18.25.35:654][292]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.07-18.25.35:654][292]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.07-18.25.35:654][292]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.07-18.25.35:654][292]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.07-18.25.35:655][292]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.07-18.25.35:655][292]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.07-18.25.35:660][292]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.07-18.25.35:660][292]LogAudioMixer: Display: 1: FrontRight
+[2020.12.07-18.25.35:705][292]LogAudioMixer: Display: Using Audio Device CABLE Input (VB-Audio Virtual Cable)
+[2020.12.07-18.25.35:706][292]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.07-18.25.35:706][292]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.07-18.25.35:706][292]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.07-18.25.35:706][292]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.07-18.25.35:718][292]LogInit: FAudioDevice initialized.
+[2020.12.07-18.25.35:753][292]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.12.07-18.25.35:848][292]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.12.07-19.25.35
+[2020.12.07-18.25.35:848][292]LogWorld: Bringing up level for play took: 0.001071
+[2020.12.07-18.25.35:849][292]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.12.07-18.25.36:118][292]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.12.07-18.25.36:245][292]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2020.12.07-18.25.36:277][292]PIE: Server logged in
+[2020.12.07-18.25.36:279][292]PIE: Play in editor total start time 0,981 seconds.
+[2020.12.07-18.25.36:352][292]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2020.12.07-18.25.36:352][292]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2020.12.07-18.25.36:352][292]LogSlate: New Slate User Created.  User Index 2, Is Virtual User: 0
+[2020.12.07-18.25.36:352][292]LogSlate: Slate User Registered.  User Index 2, Is Virtual User: 0
+[2020.12.07-18.25.36:352][292]LogSlate: New Slate User Created.  User Index 3, Is Virtual User: 0
+[2020.12.07-18.25.36:352][292]LogSlate: Slate User Registered.  User Index 3, Is Virtual User: 0
+[2020.12.07-18.25.45:431][375]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.07-18.25.45:431][375]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.07-18.26.01:258][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.07-18.26.01:258][221]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.12.07-18.26.01:280][221]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.07-18.26.01:280][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.07-18.26.01:295][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.07-18.26.01:313][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.07-18.26.01:423][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.07-18.26.01:442][221]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017D0DABCA40), frame # 3221
+[2020.12.07-18.26.01:442][221]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017D47B9DC00), frame # 3221
+[2020.12.07-18.26.01:457][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.12.07-18.26.01:502][222]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.12.07-18.26.02:440][331]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.07-18.26.02:445][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.07-18.26.02:445][331]PIE: New page: PIE session: ThirdPersonExampleMap (7 déc. 2020 à 20:26:02)
+[2020.12.07-18.26.02:477][331]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.12.07-18.26.02:488][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011051s)
+[2020.12.07-18.26.02:490][331]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.12.07-18.26.02:490][331]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017D479B1400), frame # 3331
+[2020.12.07-18.26.02:504][331]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017D0DABD080), frame # 3331
+[2020.12.07-18.26.02:504][331]LogPlayLevel: PIE: World Init took: (0.016044s)
+[2020.12.07-18.26.02:504][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027255s)
+[2020.12.07-18.26.02:512][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.12.07-18.26.02:514][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.07-18.26.02:514][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.07-18.26.02:514][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.07-18.26.02:514][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.07-18.26.02:514][331]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.07-18.26.02:514][331]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.07-18.26.02:514][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.07-18.26.02:514][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.07-18.26.02:515][331]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.07-18.26.02:515][331]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.07-18.26.02:520][331]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.07-18.26.02:520][331]LogAudioMixer: Display: 1: FrontRight
+[2020.12.07-18.26.02:533][331]LogAudioMixer: Display: Using Audio Device CABLE Input (VB-Audio Virtual Cable)
+[2020.12.07-18.26.02:534][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.07-18.26.02:534][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.07-18.26.02:534][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.07-18.26.02:534][331]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.07-18.26.02:545][331]LogInit: FAudioDevice initialized.
+[2020.12.07-18.26.02:553][331]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.12.07-18.26.02:554][331]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.12.07-19.26.02
+[2020.12.07-18.26.02:555][331]LogWorld: Bringing up level for play took: 0.000776
+[2020.12.07-18.26.02:555][331]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.12.07-18.26.02:556][331]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for controller ID 0,
+[2020.12.07-18.26.02:559][331]PIE: Server logged in
+[2020.12.07-18.26.02:560][331]PIE: Play in editor total start time 0,116 seconds.
+[2020.12.07-18.26.18:098][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.07-18.26.18:098][181]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.12.07-18.26.18:098][181]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.07-18.26.18:098][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.07-18.26.18:103][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.07-18.26.18:104][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.07-18.26.18:113][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.07-18.26.18:129][181]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017D0DABD080), frame # 5181
+[2020.12.07-18.26.18:129][181]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017D479B1400), frame # 5181
+[2020.12.07-18.26.18:145][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.12.07-18.26.18:197][183]LogPlayLevel: Display: Destroying online subsystem :Context_3
