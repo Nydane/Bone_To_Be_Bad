@@ -52,12 +52,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
-			"Assets": [
-				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "8360B2E05E6638EAA2E6836157E4086C378527DA",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
@@ -67,6 +61,12 @@
 			"ShaderMapHash": "2A4BE9B1E447C0CC116AB74C5A912C9B2633BF8A",
 			"Assets": [
 				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DF359B4AC9B32187F758CF45B384EAE9D1313955",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
 			]
 		},
 		{
@@ -233,9 +233,10 @@
 			]
 		},
 		{
-			"ShaderMapHash": "731EAF8792766EF3CE6895FEFB03B2CF890A3A6F",
+			"ShaderMapHash": "BC0E12099A8A8822CF3AAC72D03478FF70020F60",
 			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonFanMiniChr/Materials/Mat_PolygonMiniFanChr_01_A.uasset"
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonPirates/Materials/Mat_PolygonPirates_FX_Fire.uasset",
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonAdventure/Particles/Mat_FX_Fire.uasset"
 			]
 		},
 		{
@@ -245,20 +246,19 @@
 			]
 		},
 		{
-			"ShaderMapHash": "BC0E12099A8A8822CF3AAC72D03478FF70020F60",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonPirates/Materials/Mat_PolygonPirates_FX_Fire.uasset",
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonAdventure/Particles/Mat_FX_Fire.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "59C399ABE4537D40C18D12A68B445318DF7BD43F",
 			"Assets": [
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonPirates/Materials/Mat_PolygonPirates_01_A.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "A615CEF2CE64761A545A5913BBC0A6C37C97A6D2",
+			"ShaderMapHash": "B58592896F8A4DF2A053DCF720B138798C0EF1A6",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonPirates/Materials/Mat_PolygonPirates_01_A_Emission.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D5263D125A25521D4ABAE8C58A5B4E8CF29F22B3",
 			"Assets": [
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonPirates/Materials/Mat_PolygonPirates_01_A_Transparent.uasset"
 			]
@@ -282,12 +282,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CE891A67EED1A184E7694FB4C8F33F927280C6DC",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/Ingredients/Mats/GoldenEmissive.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "650776E8478105114245A5A59DB437D8B27EDC8C",
 			"Assets": [
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/Ingredients/Mats/Brown.uasset"
@@ -302,13 +296,25 @@
 		{
 			"ShaderMapHash": "B3E991DB5A86068B9140D239526C3E0F8E583B09",
 			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/RealLiquidX/M/M_LiquidX_Soup.uasset",
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/RealLiquidX/M/M_LiquidX_Beer.uasset",
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/RealLiquidX/M/M_LiquidX_Soup.uasset",
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/RealLiquidX/M/M_LiquidX_Wine.uasset",
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/RealLiquidX/M/MI_LiquidX_03.uasset",
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/RealLiquidX/M/MI_LiquidX_02.uasset",
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/RealLiquidX/M/M_LiquidX_Water.uasset",
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/RealLiquidX/M/M_LiquidX_Grog.uasset"
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/RealLiquidX/M/M_LiquidX_Grog.uasset",
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/RealLiquidX/M/M_LiquidX_Water.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FD2325E266AE8FA725B570B13BA1ADA3CF25BCDD",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "731EAF8792766EF3CE6895FEFB03B2CF890A3A6F",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonFanMiniChr/Materials/Mat_PolygonMiniFanChr_01_A.uasset"
 			]
 		},
 		{
@@ -324,16 +330,11 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FD2325E266AE8FA725B570B13BA1ADA3CF25BCDD",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Basic_Wall.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "62E4BDFC5A9EA0213436306B87B8BC6C4C14F371",
 			"Assets": [
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonAdventure/Materials/MAT_PolygonAdventure_02.uasset",
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonAdventure/Materials/MAT_PolygonAdventure_Snow_01.uasset",
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonAdventure/Meshes/blinn265_001.uasset",
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonAdventure/Materials/MAT_PolygonAdventure_Dark_02.uasset",
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/Dungeon_Assets/Fbx/lambert2.uasset",
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/Dungeon_Assets/Fbx/lambert65.uasset",
@@ -371,15 +372,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "721210764366B604FB999FD52761CCC552DADB39",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/Geometry/Meshes/CubeMaterial.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "B55423CEB033C8BD658FFBA44361E15C8D022F34",
 			"Assets": [
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/Ingredients/Mats/Grey.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "721210764366B604FB999FD52761CCC552DADB39",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/Geometry/Meshes/CubeMaterial.uasset"
 			]
 		},
 		{
@@ -395,9 +396,130 @@
 			]
 		},
 		{
+			"ShaderMapHash": "67FBB5C87758B776D6ADCB3C075F57C853E8A9E5",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/VFXapprentice/sprite_fx_eclair_v2_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "768B02D0DD2878A0AEC670482C2CCB479FD768E0",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/VFXapprentice/Mat_Borios.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "EF2022C436AEC81E73FD4AAC2B66005593B0E930",
 			"Assets": [
 				"../../Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0057A2B6DA59BC6EA69095C3BFD65AF0700A89D4",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonPirates/Materials/Mat_PolygonPirates_Water.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EC06828CD262773F0639DE985D354DBCFC149811",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonPirates/Materials/Mat_PolygonPirates_02_A.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "81BBF38C47BCCBB08F85C024513C7A72D27D603A",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "8783C3F34079967805E0FC7756662EE44E9F2ABD",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C92742D609EAB70F01775F714942A6C29D653CCB",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4C2BD69FDA51A8977763FC8E2CFBB7D6E2056076",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FB2D21D70E35E4BEE0A80F9ABD2AA162C2725DC8",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EAB0B97F3D6BF314148942617569E6D069DB41B6",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0FE92F7A80E331B9101AF184E6B800D00D3EB9DB",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_Statue.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EFE9C51D7D26BE67A352B90A2DD61C0CB3F83628",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "05CA42638EE90D304218AEB1B7B87783A9160FCC",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_Chair.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2BBD5E57E1782D1F2887171B320BCF984EFA55A0",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "716511C7F2553049BE686CC038AC13A042496EEB",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "03BFE8C92D3E44B603EAF5E33C4BF599277B94F1",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7180AE66DD610231FB0F10CDE6E2989111599E2A",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B1FF22F5E1FAD19015D89ABEE71BB2A53ABE0F22",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset",
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C6EE3A5B64FD21DC25A8CC2FBC93F00486A9A291",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A26EB19066B55C757555A93C8FC22987E3D4E3E9",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
 			]
 		},
 		{
@@ -539,6 +661,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2CB2505DC37386508890CD8B7AA8259D32DB51DE",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "DFBC3ECA43EA2DACAD9CE4A535A90896A66ABCDF",
 			"Assets": [
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
@@ -575,109 +703,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "81BBF38C47BCCBB08F85C024513C7A72D27D603A",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "8783C3F34079967805E0FC7756662EE44E9F2ABD",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "C92742D609EAB70F01775F714942A6C29D653CCB",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "4C2BD69FDA51A8977763FC8E2CFBB7D6E2056076",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "FB2D21D70E35E4BEE0A80F9ABD2AA162C2725DC8",
-			"Assets": [
-				"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "2CB2505DC37386508890CD8B7AA8259D32DB51DE",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "EAB0B97F3D6BF314148942617569E6D069DB41B6",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_TableRound.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "0FE92F7A80E331B9101AF184E6B800D00D3EB9DB",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_Statue.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "EFE9C51D7D26BE67A352B90A2DD61C0CB3F83628",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "05CA42638EE90D304218AEB1B7B87783A9160FCC",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_Chair.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "2BBD5E57E1782D1F2887171B320BCF984EFA55A0",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Metal_Copper.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "716511C7F2553049BE686CC038AC13A042496EEB",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "03BFE8C92D3E44B603EAF5E33C4BF599277B94F1",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Props/Materials/M_Lamp.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "7180AE66DD610231FB0F10CDE6E2989111599E2A",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/Materials/M_Spark.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "B1FF22F5E1FAD19015D89ABEE71BB2A53ABE0F22",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset",
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "C6EE3A5B64FD21DC25A8CC2FBC93F00486A9A291",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "A26EB19066B55C757555A93C8FC22987E3D4E3E9",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "AC6FC85D8C66AE35DE3F1483E30BE5D69DA3689A",
 			"Assets": [
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Basic_Floor.uasset"
@@ -699,12 +724,6 @@
 			"ShaderMapHash": "00D65A8AC680436C92F1335346B2CB71546895B0",
 			"Assets": [
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "1DE966990D4D65C7C726AC140C2DDC484A356696",
-			"Assets": [
-				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset"
 			]
 		},
 		{
@@ -730,6 +749,12 @@
 			"ShaderMapHash": "2C689D8EB30EE8AB7E0C31A1DC5F660B7EA63011",
 			"Assets": [
 				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1DE966990D4D65C7C726AC140C2DDC484A356696",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset"
 			]
 		},
 		{
@@ -805,24 +830,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "BCBD2CB3C0635CEDF183660AD2AA03D6833F2C7F",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonPirates/Materials/Mat_PolygonPirates_01_A_Emission.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "0057A2B6DA59BC6EA69095C3BFD65AF0700A89D4",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonPirates/Materials/Mat_PolygonPirates_Water.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "EC06828CD262773F0639DE985D354DBCFC149811",
-			"Assets": [
-				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonPirates/Materials/Mat_PolygonPirates_02_A.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "C900E7BA0FBD5CC2AFE2474C06943198A266CDDA",
 			"Assets": [
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonPirates/Materials/Mat_PolygonPirates_04_A.uasset",
@@ -835,6 +842,12 @@
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonPirates/Materials/Mat_PolygonPirates_02_B.uasset",
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonPirates/Materials/Mat_PolygonPirates_01_C.uasset",
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonPirates/Materials/Mat_PolygonPirates_01_B.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EA82FFAFED7DCF11985217396E206CD446E8E247",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonPirates/Materials/Mat_outline.uasset"
 			]
 		},
 		{
@@ -862,6 +875,18 @@
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/PolygonAdventure/Meshes/blinn265.uasset",
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/Dungeon_Assets/Fbx/lambert1.uasset",
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/PolygonPack/Dungeon_Assets/Fbx/lambert80.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "68DC5C49D4F66043A992D82BA12A386AB1AD9B8D",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/CubeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4613566AA43C404B06C49C0F01C92CC9ED609834",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset"
 			]
 		},
 		{
@@ -900,6 +925,12 @@
 			"ShaderMapHash": "E5948B7C92DDB619538C44AA8C3F46009BA1E86F",
 			"Assets": [
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/JonathanPRG/Mats/Red.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E932F11163617C99E4A55994787FFB8E85240FC0",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset"
 			]
 		},
 		{
@@ -1010,6 +1041,12 @@
 			"ShaderMapHash": "1A16D8096CBA046012EBFF73815A0AEC5E6BA833",
 			"Assets": [
 				"../../../../../../Fork/Bone_To_Be_Bad/Content/Ingredients/Mats/LightShaftMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CE891A67EED1A184E7694FB4C8F33F927280C6DC",
+			"Assets": [
+				"../../../../../../Fork/Bone_To_Be_Bad/Content/Ingredients/Mats/GoldenEmissive.uasset"
 			]
 		},
 		{
